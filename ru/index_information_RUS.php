@@ -24,14 +24,14 @@
                 <div class="tittle">Сроки</div>
                 <div>
 				<table >
-					<tr class="bottom_table"><th align="left"><span class="redColor">9 сентября 2022</span></th><th class="dates" > — открытие регистрации<br></th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">9 сентября 2022</span></th><th class="dates" > — начало подачи тезисов<br></th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">25 октября 2022</span></th><th class="dates" > — последний день подачи тезисов<br></th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">15 ноября 2022</span></th><th class="dates" > — последний день оплаты регистрационного взноса для очного участия</th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">18 ноября 2022</span></th><th class="dates" > — заезд после 14:00, в 19:00 первая сессия, приветственный фуршет</th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">19 ноября 2022</span></th><th class="dates" > — открытие конференции, торжественный ужин</th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">20 ноября 2022</span></th><th class="dates" > — закрытие конференции, торжественный ужин, игра «Что?Где?Когда?»</th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">21 ноября 2022</span></th><th class="dates" > — утренняя пленарная сессия, отъезд участников конференции</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">20 августа 2024</span></th><th class="dates" > — открытие регистрации<br></th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">20 августа 2024</span></th><th class="dates" > — начало подачи тезисов<br></th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">20 октября 2024</span></th><th class="dates" > — последний день подачи тезисов<br></th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">20 октября 2024</span></th><th class="dates" > — последний день оплаты регистрационного взноса для очного участия</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">25 октября 2024</span></th><th class="dates" > — заезд после 14:00, в 19:00 первая сессия, приветственный фуршет</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">26 октября 2024</span></th><th class="dates" > — открытие конференции, торжественный ужин</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">27 октября 2024</span></th><th class="dates" > — закрытие конференции, торжественный ужин, игра «Что?Где?Когда?»</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">28 октября 2024</span></th><th class="dates" > — утренняя пленарная сессия, отъезд участников конференции</th></tr>
 				</table>
 				
                 </div>
@@ -45,7 +45,8 @@
                     на английском языке. Размер постера — формат A0 в портретной ориентации.
                 </div>
                 <div class="textTittle">Регистрационный взнос</div>
-                <div>Регистрационный взнос (без проживания)*, на человека, руб.</div>
+				<div class="textTittle color">Скоро</div>
+                <!--<div>Регистрационный взнос (без проживания)*, на человека, руб.</div>
                 <div>
                     <table class="table " border="1">
                         <tr>
@@ -56,11 +57,11 @@
 							<th>Заочное участие</th>
                         </tr>
                         <tr class="price">
-                            <td>7000</td>
-                            <td>1500</td>
-                            <th>1500</th>
-                            <th>1000</th>
-							<th>800</th>
+                            <td>скоро</td>
+                            <td>скоро</td>
+                            <th>скоро</th>
+                            <th>скоро</th>
+							<th>скоро</th>
 
                         </tr>
                     </table>
@@ -90,7 +91,7 @@
 				
             </div>
         </div>
-    </div>
+    </div>-->
     <div class="footerBox">
         <div class="footerElement">
             <div class="footerContent">

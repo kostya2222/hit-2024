@@ -23,7 +23,7 @@
 					<div class="bodyContent">
 						<div class="tittle">Location</div>
 							<div class="BigText">The venue for the HIT-2022 conference will be the “Vodnik yacht club", located in the city of Dolgoprudny, Moscow region.</div>
-							<div><img class="img" src="images/photo1.svg"><img src="images/photo2.svg"></div>
+							<div><img class="img" src="images/vodnic.jpg" style="border-radius: 10px;" width="400">  <img src="images/vodnic.jpeg" style="border-radius: 10px;" width="450"></div>
 							<br><br>
 							<div class="BigText">Address: Moscow region, Dolgoprudny, st. Naberejnaya, 24.</div>
 							<div class="tittle redColor">How to get to</div>
@@ -32,8 +32,8 @@
 
 														<!--<a class="redColor" href="https://www.tutu.ru/rasp.php?st1=28604&st2=29504&date=25.09.2021">Schedule of electric trains Moscow Savyolovskaya — Vodniki station on September 25</a></br>
 
-														<a class="redColor" href="https://www.tutu.ru/rasp.php?st1=101&st2=29504&date=25.09.2021">Schedule of electric trains Moscow Belorusskaya — Vodniki station on September 25</a>--></div>
-														<iframe src="https://www.google.com/maps/d/embed?mid=1N6bNU5XvtWOJmGv3MWQffY9K5SLIZFO3" width="100%" height="480"></iframe>
+														<a class="redColor" href="https://www.tutu.ru/rasp.php?st1=101&st2=29504&date=25.09.2021">Schedule of electric trains Moscow Belorusskaya — Vodniki station on September 25</a></div>
+														<iframe src="https://www.google.com/maps/d/embed?mid=1N6bNU5XvtWOJmGv3MWQffY9K5SLIZFO3" width="100%" height="480"></iframe>-->
 						
 					</div>
 				</div>	

@@ -22,11 +22,11 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 					<div class="tittle">Scientific program</div>
-					<div class=""><span class="program__text color">1.</span> Humic substances as a class of chemical compounds, molecular composition, analysis, problems of standardization<br><br></div>
-					<div class=""><span class="program__text color">2.</span> Humic substances and anthropogenic pollution, role in polluted ecosystems, application in environmental technologies<br><br></div>
-					<div class=""><span class="program__text color">3.</span> Humic substances as biologically active agents: mechanisms of action and application in biomedical technologies<br><br></div>
-					<div class=""><span class="program__text color">4.</span> Humic substances as a climate change marker, carbon sequestration, application in decarbonization technologies<br><br></div>
-					<div class=""><span class="program__text color">5.</span> Humic substances in the soil - plant system: new humic agrochemicals and agrotechnologies<br><br></div>
+					<div class=""><span class="program__text color">1.</span> Artificial and natural humification<br><br></div>
+					<div class=""><span class="program__text color">2.</span> Humic substances and green agrotechnologies<br><br></div>
+					<div class=""><span class="program__text color">3.</span> Nature-like technologies<br><br></div>
+					<div class=""><span class="program__text color">4.</span> Standardization of humic substances (round table)<br><br></div>
+					<div class=""><span class="program__text color">5.</span> The structure of humic substances and artificial humification<br><br></div>
 					</div>
 				</div>	
 			</div>

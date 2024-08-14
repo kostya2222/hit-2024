@@ -9,7 +9,7 @@
 							</div>
 							<div class="infoContent__titleBox">
 									<div class="infoContent__titleElement">
-										<div class="infoContent__titleContent">Seventh International Conference of the CIS IHSS on<br>humic innovative technologies<br>"Humic substances and technologies for resilience" <br><span class="redColor">HIT-2022</span></div>
+										<div class="infoContent__titleContent">Seventh International Conference of the CIS IHSS on<br>humic innovative technologies<br>"Humic substances and green technologies" <br><span class="redColor">HIT-2022</span></div>
 									</div>
 								</div>
 							<div class="headerContent__ShipBox">

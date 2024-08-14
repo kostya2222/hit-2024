@@ -21,11 +21,11 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 						<div class="tittle">Темы конференции<br></div>
-					<div class=""><span class="program__text color">1.</span> Гуминовые вещества как сложная химическая система <br><br></div>
-					<div class=""><span class="program__text color">2.</span> Гуминовые вещества в процессах и технологиях снижения антропогенного воздействия<br><br></div>
-					<div class=""><span class="program__text color">3.</span> Гуминовые вещества как биологически активные соединения в биомедицинских технологиях<br><br></div>
-					<div class=""><span class="program__text color">4.</span> Гуминовые вещества в арктических экосистемах: специфика и роль в цикле углерода<br><br></div>
-					<div class=""><span class="program__text color">5.</span> Гуминовые вещества в системе почва - растение: новые гуминовые агрохимикаты и агротехнологии<br><br></div>
+					<div class=""><span class="program__text color">1.</span> Искусственная и естественная гумификация <br><br></div>
+					<div class=""><span class="program__text color">2.</span> Гуминовые вещества и зелёные агротехнологии<br><br></div>
+					<div class=""><span class="program__text color">3.</span> Природоподобные технологии<br><br></div>
+					<div class=""><span class="program__text color">4.</span> Стандартизация гуминовых веществ (круглый стол)<br><br></div>
+					<div class=""><span class="program__text color">5.</span> Структура гуминовых веществ и искусственная гумификация<br><br></div>
 					</div>
 				</div>	
 			</div>

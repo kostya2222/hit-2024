@@ -23,7 +23,7 @@
 						<div class="bodyContent ">
 							<div class="tittle">Место проведения</div>
 							<div class="BigText">Местом проведения конференции HIT-2022 будет яхт-клуб «Водник», расположенный в г. Долгопрудный Московской области.</div>
-							<div><img class="img" src="images/photo1.svg"><img src="images/photo2.svg"></div>
+							<div><img class="img" src="images/vodnic.jpg" style="border-radius: 10px;" width="400">  <img src="images/vodnic.jpeg" style="border-radius: 10px;" width="450"></div>
 							<br><br><div class="BigText">Aдрес: Московская область, г. Долгопрудный, ул. Набережная, д. 24.</div>
 							<div class="tittle redColor">Как добраться</div>
 							<div class ="text"> Яхт-клуб «Водник» находится в десяти минутах пешком от железнодорожной станции Водники Савёловского направления. Альтернативный вариант добраться — ехать от метро «Алтуфьево» на маршрутном такси 572 до остановки «Яхт-клуб».</div>
