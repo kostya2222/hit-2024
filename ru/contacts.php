@@ -37,7 +37,7 @@
 										<br>
 																				
 										<div>По всем вопросом писать на почту конференции: humustech@yandex.ru<br><br></div>
-										<div>сайт:<a href="http://humus.ru/hit-2024/index.php">http://humus.ru/hit-2024/index.php</a></div>
+										<div>сайт:<a href="http://humus.ru/hit-2024/">http://humus.ru/hit-2024</a></div>
 										<br>
 										
 									</div>
