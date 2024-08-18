@@ -23,7 +23,7 @@
 					<div class="bodyContent">
 						<div class="tittle">Abstract submission<br><br></div>
 							<div class=" ">Abstracts can be submitted <a class="thumbnailRed1" href="https://docs.google.com/forms/d/e/1FAIpQLSfCPbvykrBH0cQZ6qu1qh6qGUFxLU4mCRirkAOPYP6xTEadRA/viewform?usp=sf_link">here</a>.<br><br></div>
-							<div class=" ">The abstract has to be written in English using the provided <a class="thumbnailRed1" href="../docs/abstract_templateHit_2021.doc">template for HiT-2022.</a></div>
+							<div class=" ">The abstract has to be written in English using the provided <a class="thumbnailRed1" href="../docs/abstract_templateHit.doc">template for HiT-2024.</a></div>
 					</div>
 				</div>	
 			</div>

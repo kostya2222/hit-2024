@@ -32,95 +32,86 @@
 						<div class="tittle">Международный программный комитет</div>
 						<div><span class="thumbnailBlack">Перминова Ирина Васильевна</span> – Председатель, проф., д.х.н., председатель ОСНГ МГО, Химический факультет МГУ, Москва, Россия<br><br></div>
 						
-						<div><span class="thumbnailBlack">Зыкова Мария Владимировна</span> – Зам. председателя программного комитета, Сибирский государственный медицинский университет<br><br></div>
+						<div><span class="thumbnailBlack">Зыкова Мария Владимировна</span> – Зам. председателя программного комитета, Сибирский государственный медицинский университет, Томск, Россия<br><br></div>
 						
-						<div><span class="thumbnailBlack">Болат Ермагамбет</span> – директор, ТОО "Институт химии угля и технологий"<br><br></div>
-
-						<div><span class="thumbnailBlack">Заварзина Анна Григорьевна</span> – к.б.н факультет почвоведения МГУ<br><br></div>
+						<div><span class="thumbnailBlack">Ермагамбет Болат</span> – директор, ТОО "Институт химии угля и технологий"<br><br></div>
 						
-						<div><span class="thumbnailBlack">Куликова Наталья Александровна</span> – Зам. председателя программного комитета, д.б.н., факультет почвоведения МГУ, Москва, Россия<br><br></div>
-
 						<div><span class="thumbnailBlack">Ефременко Елена Николаевна</span> – проф., д.х.н., химический факультет МГУ, Москва, Россия<br><br></div>
 												
-						<div><span class="thumbnailBlack">Жеребкер Александр Яковлевич</span> – с.н.с., к.х.н., Сколтех, Москва<br><br></div>
-						
 						<div><span class="thumbnailBlack">Жеребцов Сергей Игоревич</span> – г.н.с., д.х.н., Институт углехимии ФИЦ угля и углехимии СО РАН<br><br></div>						
 
 						<div><span class="thumbnailBlack">Жилкибаев Орал Танкиевич</span> – проф., д.х.н., КазНУ им. Аль-Фараби, Алматы, Казахстан<br><br></div>
 
-						<div><span class="thumbnailBlack">Когут Борис Маратович</span> – д.с.-х.н., Почвенный институт им. В.В. Докучаева РАН, Москва, Россия<br><br></div>
+						<div><span class="thumbnailBlack">Заварзина Анна Григорьевна</span> – к.б.н факультет почвоведения МГУ, Москва, Россия<br><br></div>
 
 						<div><span class="thumbnailBlack">Кудряшева Надежда Степановна</span> – г.н.с., проф., Институт Биофизики СО РАН, Красноярск, Россия<br><br></div>
+						
+						<div><span class="thumbnailBlack">Куликова Наталья Александровна</span> – д.б.н., факультет почвоведения МГУ, Москва, Россия<br><br></div>
 
 						<div><span class="thumbnailBlack">Пономаренко Сергей Анатольевич</span> – член-корр. РАН, ИСПМ РАН, Москва, Россия<br><br></div>
 
-						<div><span class="thumbnailBlack">Проскурнин Михаил Алексеевич</span> – проф. РАН, д. х. н., Химический факультет МГУ, Москва, Россия<br><br></div>
+						<div><span class="thumbnailBlack">Проскурнин Михаил Алексеевич</span> – проф. РАН, д. х. н., химический факультет МГУ, Москва, Россия<br><br></div>
+						
+						<div><span class="thumbnailBlack">Минкина Татьяна Михайловна</span> – проф. д.б.н., Южный федеральный университет, Ростов-на-Дону<br><br></div>						
 
 						<div><span class="thumbnailBlack">Семилетов Игорь Петрович</span> – член-корр. РАН, проф., д.г.н., Тихоокеанский океанологический институт ДВО РАН, Владивосток, Россия<br><br></div>
 						
 						<div><span class="thumbnailBlack">Терехова Вера Александровна</span> – проф., д.б.н., факультет почвоведения МГУ, Москва, Россия<br><br></div>
 
-						<div><span class="thumbnailBlack">Холодов Владимир Алексеевич</span> – к. б. н., Почвенный институт им. В.В. Докучаева РАН<br><br></div>
+						<div><span class="thumbnailBlack">Холодов Владимир Алексеевич</span> – д. б. н., Почвенный институт им. В.В. Докучаева РАН, Москва, Россия<br><br></div>
 
 						<div><span class="thumbnailBlack">Чуков Серафим Николаевич</span> – проф., д.б.н., Председатель комиссии по химии почв Всероссийского общества почвоведов, Санкт-Петербургский государственный университет, Санкт-Петербург, Россия<br><br></div>
 
-						<div><span class="thumbnailBlack">Ширшин Евгений Александрович</span> – к.ф.-м.н., физический факультет МГУ, зав. лаборатории биофотоники</div>	
+						<div><span class="thumbnailBlack">Ширшин Евгений Александрович</span> – доц., д.ф.-м.н., физический факультет МГУ, Москва, Россия</div>	
 							<br>
 											
 							
 							
 							<div class="tittle">Организационный комитет</div>	
-								<div><span class="thumbnailBlack">Калмыков Степан Николаевич</span> – сопредседатель Оргкомитета, декан Химического факультета МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Калмыков Степан Николаевич</span> – сопредседатель Оргкомитета, научный руководитель химического факультета МГУ, Москва, Россия<br><br></div>
 								
-								<div><span class="thumbnailBlack">Перминова Ирина Васильевна</span> – председатель Оргкомитета, председатель Отделения СНГ МГО, Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Перминова Ирина Васильевна</span> – председатель Оргкомитета, президент МГО (IHSS), химический факультет МГУ, Москва, Россия<br><br></div>
 
-								<div><span class="thumbnailBlack">Хрептугова Анна Николаевна</span> – секретарь Оргкомитета, Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Крючкова Дарья Сергеевна</span> – секретарь Оргкомитета, имический факультет МГУ, Москва, Россия<br><br></div>
 								
-								<div><span class="thumbnailBlack">Комарова Алла Владимировна</span> – секретарь Оргкомитета, Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Комарова Алла Владимировна</span> – дизайнер, Москва, Россия<br><br></div>
 
-								<div><span class="thumbnailBlack">Ясникова Екатерина Александровна</span> – секретарь Оргкомитета, Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Владимиров Сергей Алимович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
 
-								<div><span class="thumbnailBlack">Васильев Михаил Владимирович</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Владимиров Сергей Алимович</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Волокитин Святослав Олегович</span> – Факультет почвоведения МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Воликов Александр Борисович</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Гаджибагомедов Рашид Арсенович</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Жиркова Анастасия Михайловна</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Константинов Андрей Иванович</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Чжан Юй</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Куликова Наталья Александровна</span> – Факультет почвоведения МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Ларионов Константин Сергеевич</span> – Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Гаджибагомедов Рашид Арсенович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
 								
-								<div><span class="thumbnailBlack">Мрясова Дарья Сегреевна</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Макаров Михаил Сергеевич</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Парфёнова Аксана Михайловна</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Печникова Галина Сергеевна</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Соболев Никита Андреевич</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Степанов Николай Алексеевич</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Сунь Имин</span> – Химический факультет МГУ<br><br></div>
-
-								<div><span class="thumbnailBlack">Ушакова Карина Алексеевна</span> – Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Горбунов Данила Михайлович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
 								
-								<div><span class="thumbnailBlack">Шестаков Кирилл Денисович</span> – Химический факультет МГУ<br><br></div>
+								<div><span class="thumbnailBlack">Гусманов Тимур Тагирович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
 
-						
-						
-						
+								<div><span class="thumbnailBlack">Жиркова Анастасия Михайловна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Журба Виктория Святославовна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+
+								<div><span class="thumbnailBlack">Константинов Андрей Иванович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Котова Марина Вячеславовна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+
+								<div><span class="thumbnailBlack">Куликова Наталья Александровна</span> – Факультет почвоведения МГУ, Москва, Россия<br><br></div>
+
+								<div><span class="thumbnailBlack">Ларионов Константин Сергеевич</span> – химический факультет МГУ, Москва, Россия<br><br></div>								
+
+								<div><span class="thumbnailBlack">Макаров Михаил Сергеевич</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Николаева Анастасия Владимировна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+
+								<div><span class="thumbnailBlack">Парфёнова Аксана Михайловна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Петров Кирилл Валерьевич</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+
+								<div><span class="thumbnailBlack">Печникова Галина Сергеевна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Степанов Николай Алексеевич</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Ушакова Карина Алексеевна</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+								
+								<div><span class="thumbnailBlack">Шестаков Кирилл Денисович</span> – химический факультет МГУ, Москва, Россия<br><br></div>
+
 				</div>	
 			</div>
 			<div class="footerBox">

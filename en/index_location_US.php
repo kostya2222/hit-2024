@@ -22,12 +22,15 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 						<div class="tittle">Location</div>
-							<div class="BigText">The venue for the HIT-2022 conference will be the “Vodnik yacht club", located in the city of Dolgoprudny, Moscow region.</div>
-							<div><img class="img" src="images/vodnic.jpg" style="border-radius: 10px;" width="400">  <img src="images/vodnic.jpeg" style="border-radius: 10px;" width="450"></div>
+							<div class="BigText">The venue for the HIT-2024 conference is Sailing Club "Vodnik" located in the city of Dolgoprudny Moscow region.</div>
+							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
+							
+							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  <img src="images/location3.jpg" style="border-radius: 10px;" width="420"></div>
+							
 							<br><br>
 							<div class="BigText">Address: Moscow region, Dolgoprudny, st. Naberejnaya, 24.</div>
 							<div class="tittle redColor">How to get to</div>
-							<div class ="text"> The Vodnik yacht club is located about ten minutes walk from the Vodniki railway station of the Savyolovsky direction. An alternative way to get there is to go from the Altufevo metro station by minibus taxi 572 to the Yacht Club stop.</div>
+							<div class ="text"> The Vodnik yacht club is located about ten minutes walk from the Vodniki railway station of the Savyolovsky direction. An alternative way to get there is to go from the Phystech metro station by minibus taxi 572 to the School № 16 stop.</div>
 							<div class="tittle "><a class="redColor" href="doc/getToRus.pdf">Route schemes from airports to the Vodnik yacht club</a></br>
 
 														<!--<a class="redColor" href="https://www.tutu.ru/rasp.php?st1=28604&st2=29504&date=25.09.2021">Schedule of electric trains Moscow Savyolovskaya — Vodniki station on September 25</a></br>

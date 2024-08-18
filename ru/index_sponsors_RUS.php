@@ -27,7 +27,7 @@
 						  <tr class="border">
 							<td class="border logo3"><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"><a/><div class="textlogo3">Химический факультет<br>МГУ</div></td>
 							
-							<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Сибирский <br>Государственный <br>Медицинский <br>Университет</div></td>
+							<!--<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Сибирский <br>Государственный <br>Медицинский <br>Университет</div></td>-->
 						  </tr>
 						  <tr>
 						  </tr>
@@ -61,20 +61,20 @@
 						<div class="logo6">	<a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div class=""><br>Некоммерческое партнёрство «Экспертно-аналитический центр<br>по проблемам органогенного сырья "Гумус Сапиенс”»</div></div>
 						<div class="sponsors__text">Спонсоры конференции</div>-->
 						
-						
+						<!--
 						<table class="orgTable border">
 						  <tr class="topS">
 						  <div class="sponsors__text">Спонсоры конференции</div>
 						  <tr class="topSponMain">
 							<td class="" style="width: 500px;"><a href="https://relictorganics.com/"><img class="logo7"   style="background: #000;"  src="images/genLogo.svg" align="left"><a/><div class="textlogo7"><br>НПП «Генезис»</div></td>
 							<td class=""><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignoLogo.svg" align="left"></a><div class="textlogoL">ООО "Лигногумат"</div></td>
-							<td class=""><!--<a href="https://relictorganics.com/company"><img class="logosp" src="images/genLogo.svg" align="left">--><a/><div class="textlogo7"><br>Новалэнд</div></td>
+							<td class=""><!--<a href="https://relictorganics.com/company"><img class="logosp" src="images/genLogo.svg" align="left"><a/><div class="textlogo7"><br>Новалэнд</div></td>
 						  </tr>
-							<!--
+							
 							<td class=""><img class="logosp" src="images/nobel.jpeg" align="left"><div class="textlogo8">Nobel</div></td>
 						  </tr>
 						  <tr class="topS">							
-							<!--<td class=" "><a href="https://bashinkom.ru/"><img class="logoB " src="images/BashLogo.svg" align="left"></a><div class="textlogo9">НВП БашИнком</div></td>	-->					
+							<td class=" "><a href="https://bashinkom.ru/"><img class="logoB " src="images/BashLogo.svg" align="left"></a><div class="textlogo9">НВП БашИнком</div></td>	-->					
 							
 						  </tr>
 						</table>

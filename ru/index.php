@@ -6,7 +6,7 @@
 		<title>Humic Innovative Technologies</title>
 		<meta property="og:url" content="http://www.humus.ru/hit-2024/ru/">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="http://www.humus.ru/hit-2024/en/images/ship_preview.png">
+		<meta property="og:image" content="http://www.humus.ru/hit-2024/en/images/ship.png">
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Fonts style Inter -->
 		<link rel="preconnect" href="https://fonts.gstatic.com">    
@@ -33,7 +33,7 @@
 		которая проводится по инициативе Регионального Отделения СНГ Международного
 		гуминового общества и МГУ имени М.В. Ломоносова.
 												</div>
-												<div class="infoContent_messageBoxTitle">Дата проведения конференции:</div>
+												<div class="infoContent_messageBoxTitle">Даты проведения конференции:</div>
 												<div class="infoContent_messageBoxPlace">25-28 октября 2024 года</div>
 												<div class="infoContent_messageBoxTitle">Место проведения конференции:</div>
 												<div class="infoContent_messageBoxPlace">парусный клуб «Водник», г.

@@ -21,12 +21,18 @@
 				<div class="bodyElement">
 					<div class="bodyContent ">
 						<div class="bodyContent ">
-							<div class="tittle">Место проведения</div>
-							<div class="BigText">Местом проведения конференции HIT-2022 будет яхт-клуб «Водник», расположенный в г. Долгопрудный Московской области.</div>
-							<div><img class="img" src="images/vodnic.jpg" style="border-radius: 10px;" width="400">  <img src="images/vodnic.jpeg" style="border-radius: 10px;" width="450"></div>
+							<!--<div class="tittle">Место проведения</div>-->
+							<div class="tittle">Место проведения конференции:</div>
+												<div class="infoContent_messageBoxPlace">парусный клуб «Водник», ПлавОтель</div>
+							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
+							
+							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  <img src="images/location3.jpg" style="border-radius: 10px;" width="420"></div>
+							
+							
+							
 							<br><br><div class="BigText">Aдрес: Московская область, г. Долгопрудный, ул. Набережная, д. 24.</div>
 							<div class="tittle redColor">Как добраться</div>
-							<div class ="text"> Яхт-клуб «Водник» находится в десяти минутах пешком от железнодорожной станции Водники Савёловского направления. Альтернативный вариант добраться — ехать от метро «Алтуфьево» на маршрутном такси 572 до остановки «Яхт-клуб».</div>
+							<div class ="text"> Яхт-клуб «Водник» находится в десяти минутах пешком от железнодорожной станции Водники Савёловского направления. Альтернативный вариант добраться — ехать от метро «Физтех» на маршрутном такси 572 до остановки «Школа №16».</div>
 							<div class="tittle "><a class="redColor" href="doc/getToRus.pdf">Схемы маршрутов от аэропортов до яхт-клуба «Водник»</a></br>
 
 														<!--<a class="redColor" href="https://www.tutu.ru/rasp.php?st1=28604&st2=29504&date=25.09.2021">Расписание электричек Москва Савёловская — станция Водники на 25 сентября</a></br>

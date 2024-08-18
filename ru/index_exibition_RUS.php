@@ -21,7 +21,7 @@
 			<div class="bodyBox">
 				<div class="bodyElement">
 					<div class="container">
-						<div class="ExTittle redColor" style="font-size: 24px">Четвертая Международная Выставка гуминовых продуктов и технологий</div>
+						<div class="ExTittle redColor" style="font-size: 24px">Пятая Международная Выставка гуминовых продуктов и технологий</div>
 							<div class="ExTittle1">Организаторы</div>
 							<p><div class="Extext">Отделение СНГ Международного гуминового общества, МГУ имени М.В. Ломоносова</div></p>
 						<!--<p class="Extext">По вопросам участия в выставке - Никита Андреевич Соболев.</p>
@@ -38,15 +38,15 @@
 							</div>
 						</div>-->
 						<br>
-							<div class="ExTittle1">Информационная поддержка</div>
-							<div class="Exmain" style="width: 100%">Выставка будет размещена в холле перед залом заседаний конференции и будет проходить постоянно в течение трёх дней работы конференции: с 18 по 21 ноября 2022 г. К проведению выставки будет подготовлен каталог с перечнем информации
+							<div class="ExTittle1">Общая информация</div>
+							<div class="Exmain" style="width: 100%">Выставка будет размещена в холле перед залом заседаний конференции и будет проходить постоянно в течение трёх дней работы конференции: с 25 по 28 октября 2024 г. К проведению выставки будет подготовлен каталог с перечнем информации
 											о предприятиях-участниках и заявленных продуктах. Каталог будет двуязычным: информация будет представлена на русском
 											и английском языках. В рамках проведения выставки будут организованы заседания круглых столов, посвященные актуальным проблемам гуминовой отрасли.</div>
-							<div class="ExTittle1">Участники выставки</div>
+							<div class="ExTittle1"> </div>
 							<details>
 							    <summary class="list">Дни работы выставки</summary>
 								<div class="container dataTittle">
-									<p>25-28 октября</p>
+									<p>25-28 октября 2024 года</p>
 								</div>
 <!--								<div class="container">-->
 <!--									<div class="container">-->
@@ -94,7 +94,7 @@
 <!--								</div>-->
 							</details>
 							<details>
-							    <summary class="list">Место для размещения выставки</summary>
+							    <summary class="list">Места для размещения выставки</summary>
 									<div class="container">
 										<div class="row">
 											<div class="col-6">
@@ -107,7 +107,7 @@
 									</div>
 							</details>
 							<details>
-							    <summary class="list">Примерное распределение выставочных мест (подлежит обсуждению)</summary>
+							    <summary class="list">План размещения выставочных мест</summary>
 									<DIV class = "top1"><a href="doc/plan_mesta.xlsx" class=" bold redColor">План выставки с местами</a></div>
 								<a href="doc/plan_mesta.xlsx"><img src="images/exhibition.png" style="width: 100%"></a>
 

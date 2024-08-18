@@ -28,32 +28,34 @@
 							<div class="row">
 								<div class="col-md-6 col-sm-12">
 									<div style="background: #FFFFF; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 20px; padding-right: 0px">
-										<div><b>Chair of the Organizing Committee</b></div>
+										<div><b>Organizing Committee:</b></div>
+										<br><br>	
+										<div>email: humustech@yandex.ru </div>
+										<div>site: <a href="http://humus.ru/hit-2024/index.php">http://humus.ru/hit-2024/index.php</a></div>
 										<br>
-										<div>Irina Perminova</div>
-										<div>Tel. +7 (903) 660 48 64</div>
-										<br>
-										<div><a href="mailto:iperm@med.chem.msu.ru">iperminova@gmail.ru</a></div>
+										
 									</div>
+									
+									
 								</div>
 								<div class="col-md-6 col-sm-12">
 									<div style="background: #FFFFF; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 20px; padding-right: 0px">
 										<div><b>Conference Secretary:</b></div>
 										<br>	
 										<div>Daria Kryuchkova</div>
-										<div>Tel. +7 (963) 916 92 91</div>
+										<div>WhatsApp: +7 (963) 916 92 91</div>
 										<br>
 										<div><a href="mailto:dkriuchkova01205@gmail.com">dkriuchkova01205@gmail.com</a></div>
 									</div>
 								</div>
 									<div class="col-md-6 col-sm-12">
 									<div style="background: #FFFFF; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 20px; padding-right: 0px">
-										<div><b>Organizing Committee:</b></div>
-										<br>	
-										<div>email: humustech@yandex.ru </div>
-										<div>site: <a href="http://humus.ru/hit-2024/en/index.html">http://humus.ru/hit-2024/en/index.html</a></div>
+										<div><b>Chair of the Organizing Committee</b></div>
 										<br>
-										
+										<div>Irina Perminova</div>
+										<div>WhatsApp: +7 (903) 660 48 64</div>
+										<br>
+										<div><a href="mailto:iperm@med.chem.msu.ru">iperminova@gmail.ru</a></div>
 									</div>
 								</div>
 

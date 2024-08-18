@@ -30,7 +30,7 @@
 					<tr class="bottom_table"><th align="left"><span class="redColor">20 октября 2024</span></th><th class="dates" > — последний день оплаты регистрационного взноса для очного участия</th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">25 октября 2024</span></th><th class="dates" > — заезд после 14:00, в 19:00 первая сессия, приветственный фуршет</th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">26 октября 2024</span></th><th class="dates" > — открытие конференции, торжественный ужин</th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">27 октября 2024</span></th><th class="dates" > — закрытие конференции, торжественный ужин, игра «Что?Где?Когда?»</th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">27 октября 2024</span></th><th class="dates" > — закрытие конференции, ужин, игра «Что?Где?Когда?»</th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">28 октября 2024</span></th><th class="dates" > — утренняя пленарная сессия, отъезд участников конференции</th></tr>
 				</table>
 				

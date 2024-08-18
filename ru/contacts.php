@@ -26,14 +26,20 @@
 						<div class="tittle">Контакты</div>
 						<div class="container">
 							<div class="row">
+							
+							
+							
+							
+							
 								<div class="col-md-6 col-sm-12">
 									<div style="background: #FFFFF; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 20px; padding-right: 0px">
-										<div><b>Председатель Оргкомитета:</b></div>
+										<div><b>Оргкомитет:</b></div>
 										<br>
-										<div>Ирина Васильевна Перминова</div>
-										<div>Тел. +7 (903) 660 48 64</div>
+																				
+										<div>По всем вопросом писать на почту конференции: humustech@yandex.ru<br><br></div>
+										<div>сайт:<a href="http://humus.ru/hit-2024/index.php">http://humus.ru/hit-2024/index.php</a></div>
 										<br>
-										<div><a href="mailto:iperm@med.chem.msu.ru">iperminova@gmail.ru</a></div>
+										
 									</div>
 								</div>
 								<div class="col-md-6 col-sm-12">
@@ -41,20 +47,20 @@
 										<div><b>Секретарь конференции:</b></div>
 										<br>	
 										<div>Дарья Сергеевна Крючкова</div>
-										<div>Тел. +7 (963) 916 92 91</div>
+										<div>WhatsApp: +7 (963) 916 92 91</div>
 										<br>
-										<div><a href="mailto:dkriuchkova01205@gmail.com">dkriuchkova01205@gmail.com</a></div>
+										<div><a href="mailto:dkriuchkova01205@gmail.com">dkriuchkova01205@gmail.com</a><br><br></div>
 									</div>
 								</div>
 								
 								<div class="col-md-6 col-sm-12">
 									<div style="background: #FFFFF; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); padding: 20px; padding-right: 0px">
-										<div><b>Оргкомитет:</b></div>
-										<br>	
-										<div>почта: humustech@yandex.ru</div>
-										<div>сайт:<a href="http://humus.ru/hit-2022/ru/index.html">http://humus.ru/hit-2022/ru/index.html</a></div>
+										<div><b>Председатель Оргкомитета:</b></div>
 										<br>
-										
+										<div>Ирина Васильевна Перминова</div>
+										<div>WhatsApp: +7 (903) 660 48 64</div>
+										<br>
+										<div><a href="mailto:iperm@med.chem.msu.ru">iperminova@gmail.ru</a></div>
 									</div>
 								</div>
 							</div>

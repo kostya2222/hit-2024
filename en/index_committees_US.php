@@ -33,18 +33,18 @@
 					<div class="tittle">International Program Committee</div>
 							<div><span class="thumbnailBlack">Irina V. Perminova</span> – Chair of International Program Committee, Professor, Coordinator of the CIS IHSS Chapter, Department of Chemistry, Lomonosov MSU, Russia<br><br></div>
 							
-							<div><span class="thumbnailBlack">Maria Zykova</span> – Vice-chair of the Program Committee, Siberian State Medical University<br><br></div>
+							<div><span class="thumbnailBlack">Maria Zykova</span> – Vice-chair of the Program Committee, Siberian State Medical University, Tomsk, Russia<br><br></div>
 							
-							<div><span class="thumbnailBlack">Anna Zavarzina</span> – PhD, Department of Soil Science, Lomonosov MSU<br><br></div>
+							<div><span class="thumbnailBlack">Anna Zavarzina</span> – PhD, Department of Soil Science, Lomonosov MSU, Moscow, Russia<br><br></div>
 							
-							<div><span class="thumbnailBlack">Bolat Ermagambet</span> – director, LLP "Institute of сhemistry coal and technology"<br><br></div>
+							<div><span class="thumbnailBlack">Elena N. Efremenko</span> – Professor, Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+							
+							<div><span class="thumbnailBlack">Ermagambet Bolat</span> – director, LLP "Institute of сhemistry coal and technology"<br><br></div>
 
-							<div><span class="thumbnailBlack">Natalia A. Kulikova</span> – Vice-chair of International Program Committee, Dr. habil., Department of Soil Science, Lomonosov MSU, Russia<br><br></div>
+							<div><span class="thumbnailBlack">Natalia A. Kulikova</span> – Vice-chair of International Program Committee, Dr. habil., Department of Soil Science, Lomonosov MSU, Moscow, Russia<br><br></div>
 
-							<div><span class="thumbnailBlack">Elena N. Efremenko</span> – Professor, Department of Chemistry, Lomonosov MSU, Russia<br><br></div>
-							
-							<div><span class="thumbnailBlack">Alexander Ya. Zherebker</span> – PhD, Skolkovo Institute of Science and Technology, Moscow<br><br></div>
-							
+														
+														
 							<div><span class="thumbnailBlack">Sergey I. Zherebtsov</span> – Professor, Federal Research Center of Coal and Coal Chemistry of the Siberian Branch of RAS<br><br></div>
 							
 							<div><span class="thumbnailBlack">Oral Zhilkibaev</span> – Professor, Al-Farabi Kazakh National Univercity, Kazakhstan<br><br></div>
@@ -55,65 +55,66 @@
 
 							<div><span class="thumbnailBlack">Sergey A. Ponomarenko</span> – Corresponding Member of Russian Academy of Sciences, Enikolopov Institute of Synthetic Polymeric Materials of RAS, Moscow, Russia<br><br></div>
 
-							<div><span class="thumbnailBlack">Mikhail A. Proskurnin</span> – Professor, RAS, PhD, Department of Chemistry, Lomonosov MSU, Russia<br><br></div>
+							<div><span class="thumbnailBlack">Mikhail A. Proskurnin</span> – Professor, RAS, PhD, Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+							
+							<div><span class="thumbnailBlack">Minkina Tatyana Mikhailovna</span> – Professor PhD, Southern Federal University, Rostov-on-Don<br><br></div>
 
 							<div><span class="thumbnailBlack">Igor P. Semiletov</span> – Corr. Member of RAS, Professor, V.I. Il'ichev Pacific Oceanological Institute, Vladivostok, Russia<br><br></div>
 
-							<div><span class="thumbnailBlack">Vera A. Terekhova</span> – Professor, Department of Soil Science, Lomonosov MSU, Russia<br><br></div>
+							<div><span class="thumbnailBlack">Vera A. Terekhova</span> – Professor, Department of Soil Science, Lomonosov MSU, Moscow, Russia<br><br></div>
 
 							<div><span class="thumbnailBlack">Vladimir A. Kholodov</span> – PhD, Soil Institute named after V.V. Dokuchaev RAS<br><br></div>
 
 							<div><span class="thumbnailBlack">Serafim N. Chukov</span> – Professor, Saint-Petersburg State University, Chair of the Commission on Soil Chemistry of the Russian Soil Science Society, Saint-Petersburg, Russia<br><br></div>
 
-							<div><span class="thumbnailBlack">Eugene A. Shirshin</span> – PhD, Head of the Biophotonics Laboratory, Department of Physics, MSU<br><br></div>
+							<div><span class="thumbnailBlack">Eugene A. Shirshin</span> – PhD, Head of the Biophotonics Laboratory, Department of Physics, MSU, Moscow, Russia<br><br></div>
 							
 							
 								<div class="tittle">Organizing Committee</div>								
-								<div><span class="thumbnailBlack">Stepan N. Kalmykov</span> – Co-chair of Organizing Committee, Head of Department of Chemistry, Lomonosov MSU<br><br></div>
+								<div><span class="thumbnailBlack">Stepan N. Kalmykov</span> – Co-chair of Organizing Committee, Head of Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
 								
-									<div><span class="thumbnailBlack">Irina V. Perminova</span> – Chair of Organizing Committee<br><br></div> 
+									<div><span class="thumbnailBlack">Irina V. Perminova</span> – Chair of Organizing Committee, Moscow, Russia<br><br></div> 
 
-									<div><span class="thumbnailBlack">Anna Khreptugova</span>  – Conference Secretary, Department of Chemistry, Lomonosov MSU<br><br></div>
+									<div><span class="thumbnailBlack">Anna Khreptugova</span>  – Conference Secretary, Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
 
-									<div><span class="thumbnailBlack">Alla Komarova</span> – Conference Secretary, Department of Chemistry, Lomonosov MSU<br><br></div>
+									<div><span class="thumbnailBlack">Alla Komarova</span> – Designer<br><br></div>									
 
-									<div><span class="thumbnailBlack">Mikhail Vasiliev</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Sergey Vladimirov</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Svyatoslav Volokitin</span> – Department of Soil Science, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Alexander Volikov</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Rashid Gadzhibagomedov</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Anastasia Zhirkova</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Zhang Yu</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Natalia Kulikova</span> – Department of Soil Science, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Konstantin Larionov</span>  – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Mikhail Makarov</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Darya Mryasova</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Anastasiya Nikolaeva</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Pechnikova Galina</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Aksana Parfyonova</span>  – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Nikita Sobolev</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Nikolay Stepanov</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Yiming Sun</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
-
-									<div><span class="thumbnailBlack">Karina Ushakova</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
+									<div><span class="thumbnailBlack">Sergey Vladimirov</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
 									
-									<div><span class="thumbnailBlack">Shestakov Kirill</span> – Department of Chemistry, Lomonosov MSU<br><br></div>
+									<div><span class="thumbnailBlack">Rashid Gadzhibagomedov</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Anastasia Zhirkova</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>	
+
+									<div><span class="thumbnailBlack">Victoria Zhurba</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>	
+
+
+									<div><span class="thumbnailBlack">Andrey Konstantinov </span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Marina Kotova</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Kirill Petrov</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+									
+									
+
+									<div><span class="thumbnailBlack">Natalia Kulikova</span> – Department of Soil Science, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Konstantin Larionov</span>  – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Mikhail Makarov</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Darya Kryuchkova</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Anastasiya Nikolaeva</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Pechnikova Galina</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+
+									<div><span class="thumbnailBlack">Aksana Parfyonova</span>  – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>									
+
+									<div><span class="thumbnailBlack">Nikolay Stepanov</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>								
+
+									<div><span class="thumbnailBlack">Karina Ushakova</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
+									
+									<div><span class="thumbnailBlack">Shestakov Kirill</span> – Department of Chemistry, Lomonosov MSU, Moscow, Russia<br><br></div>
 
 
 						</div>

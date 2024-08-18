@@ -6,7 +6,7 @@
                     <div class="headerContent__LogoBox">
                         <div class="headerContent__LogoElement">
                             <a href="index.php"><img class="headerContent__LogoContent"
-                                                      src="images/mainLogoHiT.svg" width="120"></a>
+                                                      src="images/mainLogoHiT.png" width="220"></a>
                         </div>
                     </div>
                     <div class="infoContent__titleBox">
@@ -62,8 +62,8 @@
                             </li>
                             <li class="navLink">
 							<?php if ($links=='index_sponsors_US.php')
-							        echo'<a class="navLinkText submissionOfAbstracts redColor" href="#">Организаторы и спонсоры</a>';
-								  else echo'<a class="navLinkText submissionOfAbstracts" href="#">Организаторы и спонсоры</a>';
+							        echo'<a class="navLinkText submissionOfAbstracts redColor" href="index_sponsors_RUS.php">Организаторы и спонсоры</a>';
+								  else echo'<a class="navLinkText submissionOfAbstracts" href="index_sponsors_RUS.php">Организаторы и спонсоры</a>';
 								?>                                
                             </li>
                             <br>
@@ -82,8 +82,8 @@
                             </li>
                             <li class="navLink">
 							<?php if ($links=='indexd.php')
-							        echo'<a class="navLinkText checkIn redColor" href="https://docs.google.com/forms/d/e/1FAIpQLSeQymyGibN5hCuWPPFWBGlSGaIczxjewj3eAuKdrUCz-_5gEQ/viewform?usp=sf_link">Регистрация</a>';
-								  else echo'<a class="navLinkText checkIn" href="https://docs.google.com/forms/d/e/1FAIpQLSeQymyGibN5hCuWPPFWBGlSGaIczxjewj3eAuKdrUCz-_5gEQ/viewform?usp=sf_link">Регистрация</a>';
+							        echo'<a class="navLinkText checkIn redColor" href="https://forms.gle/8bGYCFiRia32dwf8A">Регистрация</a>';
+								  else echo'<a class="navLinkText checkIn" href="https://forms.gle/8bGYCFiRia32dwf8A">Регистрация</a>';
 								?>                                
                             </li>
                             <li class="navLink">

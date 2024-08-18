@@ -4,12 +4,12 @@
 						<div class="headerContent__Box">
 							<div class="headerContent__LogoBox">
 								<div class="headerContent__LogoElement">
-									<a href="index.php"><img class="headerContent__LogoContent" src="images/mainLogoHiT.svg"  width="120"></a>
+									<a href="index.php"><img class="headerContent__LogoContent" src="images/mainLogoHiT.png"  width="220"></a>
 								</div>
 							</div>
 							<div class="infoContent__titleBox">
 									<div class="infoContent__titleElement">
-										<div class="infoContent__titleContent">Seventh International Conference of the CIS IHSS on<br>humic innovative technologies<br>"Humic substances and green technologies" <br><span class="redColor">HIT-2022</span></div>
+										<div class="infoContent__titleContent"><span class="redColor">Ninth</span> International Conference of the CIS IHSS on<br>humic innovative technologies<br>"Humic substances and green technologies" <br><span class="redColor">HIT-2024</span></div>
 									</div>
 								</div>
 							<div class="headerContent__ShipBox">
@@ -58,8 +58,8 @@
 									</li>
 									<li class="navLink">
 									<?php if ($links=='index_sponsors_RUS.php')
-							        echo'<a class="navLinkText submissionOfAbstracts redColor" href="#">Organizers and sponsors</a>';
-									else echo'<a class="navLinkText submissionOfAbstracts" href="#">Organizers and sponsors</a>';
+							        echo'<a class="navLinkText submissionOfAbstracts redColor" href="index_sponsors_US.php">Organizers and sponsors</a>';
+									else echo'<a class="navLinkText submissionOfAbstracts" href="index_sponsors_US.php">Organizers and sponsors</a>';
 									?>
 										
 									</li>
@@ -73,8 +73,8 @@
 									</li>
 									<li class="navLink">
 									<?php if ($links=='indexd.php')
-							        echo'<a class="navLinkText checkIn redColor" href="https://docs.google.com/forms/d/e/1FAIpQLSdcy_s3Y9V-ars9SlbwPGMwzQr06xet3OUCEbhGOwgI17Pyqw/viewform?usp=sf_link">Registration</a>';
-									else echo'<a class="navLinkText checkIn" href="https://docs.google.com/forms/d/e/1FAIpQLSdcy_s3Y9V-ars9SlbwPGMwzQr06xet3OUCEbhGOwgI17Pyqw/viewform?usp=sf_link">Registration</a>';
+							        echo'<a class="navLinkText checkIn redColor" href="https://forms.gle/8bGYCFiRia32dwf8A">Registration</a>';
+									else echo'<a class="navLinkText checkIn" href="https://forms.gle/8bGYCFiRia32dwf8A">Registration</a>';
 									?>
 										
 									</li>

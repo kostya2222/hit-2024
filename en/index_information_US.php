@@ -25,26 +25,26 @@
                 <div class="tittle">Deadlines</div>
                 <div>
 				<table>
-				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2022</span></th><th class="dates" > — registration opening<br></th></tr>
-				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2022</span></th><th class="dates" > — start of abstract submission<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2024</span></th><th class="dates" > — registration opening<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2024</span></th><th class="dates" > — start of abstract submission<br></th></tr>
 
-				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2022</span></th><th class="dates" > — closing date for abstract submission<br></th></tr>
-				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2022</span></th><th class="dates" > — the last day of payment of the registration fee<br></th></tr>
-               <tr class="bottom_table"><th align="left"><span class="redColor">October 25, 2022</span></th><th class="dates" > — arrival is after 2 p.m., the first session is after 7 p.m.<br></th></tr>
-				<tr class="bottom_table"><th align="left"><span class="redColor">October 26, 2022</span></th><th class="dates" > — conference opening, gala dinner<br></th></tr>
-				<tr class="bottom_table"><th align="left"><span class="redColor">October 27, 2022</span></th><th class="dates" > — conference closing, gala dinner, "What? Where? When?" game<br></th></tr>
-                <tr class="bottom_table"><th align="left"><span class="redColor">October 28, 2022</span></th><th class="dates" > — morning plenary session, departure of the conference participants</th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2024</span></th><th class="dates" > — closing date for abstract submission<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2024</span></th><th class="dates" > — the last day of payment of the registration fee<br></th></tr>
+                <tr class="bottom_table"><th align="left"><span class="redColor">October 25, 2024</span></th><th class="dates" > — arrival after 2 p.m., the first session is after 7 p.m.<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">October 26, 2024</span></th><th class="dates" > — conference opening, gala dinner<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">October 27, 2024</span></th><th class="dates" > — conference closing, dinner, "What? Where? When?" game<br></th></tr>
+                <tr class="bottom_table"><th align="left"><span class="redColor">October 28, 2024</span></th><th class="dates" > — morning plenary session, departure of the conference participants</th></tr>
                 </table>
 				</div>
 				
                 <div class="textTittle">Language</div>
-                <div>The official languages of the conference will be English and Russian.</div>
+                <div>The official language is English and Russian.</div>
                 <div class="textTittle">Presentations</div>
-                <div>The scientific program will include keynote lectures (30 min. incl. discussion), oral presentations
-                    (15 min. incl. discussion), poster presentations, panel and round table discussions.
+                <div>The scientific program includes keynote lectures (30 min. incl. questions), oral presentations
+                    (15 min. incl. questions), poster presentations, panel and round table discussions.
                 </div>
                 <div class="textTittle">Registration fee</div>
-				<div class="textTittle color">Soon</div>
+				<div class="textTittle color">Coming soon</div>
                 <!--<div>Registration fee (without accommodation)*, per person, EURO</div>
                 <div>
                     <table class="table" border="2">

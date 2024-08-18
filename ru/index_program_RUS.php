@@ -21,11 +21,10 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 						<div class="tittle">Темы конференции<br></div>
-					<div class=""><span class="program__text color">1.</span> Искусственная и естественная гумификация <br><br></div>
-					<div class=""><span class="program__text color">2.</span> Гуминовые вещества и зелёные агротехнологии<br><br></div>
-					<div class=""><span class="program__text color">3.</span> Природоподобные технологии<br><br></div>
-					<div class=""><span class="program__text color">4.</span> Стандартизация гуминовых веществ (круглый стол)<br><br></div>
-					<div class=""><span class="program__text color">5.</span> Структура гуминовых веществ и искусственная гумификация<br><br></div>
+					<div class=""><span class="program__text color">1.</span> Гуминовые системы: строение, эволюция, анализ, свойства <br><br></div>
+					<div class=""><span class="program__text color">2.</span> Гуминовые системы как маркеры состояния климата, почв и водных экосистем и их применение для минимизации антропогенного воздействия <br><br></div>
+					<div class=""><span class="program__text color">3.</span> Естественная и искусственная гумификация, природоподобные технологии переработки органических отходов<br><br></div>
+					<div class=""><span class="program__text color">4.</span> Гуминовые системы и взаимодействие с живыми организмами<br><br></div>
 					</div>
 				</div>	
 			</div>

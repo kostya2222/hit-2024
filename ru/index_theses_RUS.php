@@ -23,7 +23,7 @@
 					<div class="bodyContent ">
 						<div class="tittle">Подача тезисов<br><br></div>
 						<div class=" ">Тезисы докладов можно загрузить <a class="thumbnailRed1" href="https://docs.google.com/forms/d/e/1FAIpQLSdmXysvlQUds2zvY_zVEU_bFGr17TI-LHmjwJIfK1qHWk_x5Q/viewform?usp=sf_link">здесь</a>.<br><br></div>
-						<div class=" ">Тезисы должны быть написаны на <span class="redColor">английском языке</span> и оформлены в строгом соответствии с <a class="thumbnailRed1" href="../docs/abstract_templateHit_2021.doc">шаблоном.</a></div>
+						<div class=" ">Тезисы должны быть написаны на <span class="redColor">английском языке</span> и оформлены в строгом соответствии с <a class="thumbnailRed1" href="../docs/abstract_templateHit.doc">шаблоном.</a></div>
 					</div>
 				</div>	
 			</div>

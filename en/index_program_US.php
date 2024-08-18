@@ -22,11 +22,11 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 					<div class="tittle">Scientific program</div>
-					<div class=""><span class="program__text color">1.</span> Artificial and natural humification<br><br></div>
-					<div class=""><span class="program__text color">2.</span> Humic substances and green agrotechnologies<br><br></div>
-					<div class=""><span class="program__text color">3.</span> Nature-like technologies<br><br></div>
-					<div class=""><span class="program__text color">4.</span> Standardization of humic substances (round table)<br><br></div>
-					<div class=""><span class="program__text color">5.</span> The structure of humic substances and artificial humification<br><br></div>
+					<div class=""><span class="program__text color">1.</span> Humic systems: structure, evolution, analysis, properties<br><br></div>
+					<div class=""><span class="program__text color">2.</span> Humic systems as markers of the climate, soils and aquatic ecosystems and their application to minimize anthropogenic impact<br><br></div>
+					<div class=""><span class="program__text color">3.</span> Natural and artificial humification, nature-like technologies for processing organic waste<br><br></div>
+					<div class=""><span class="program__text color">4.</span> Humic systems and interaction with living organisms <br><br></div>
+					
 					</div>
 				</div>	
 			</div>
