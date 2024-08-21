@@ -83,10 +83,10 @@
 							<b><u><a href="../docs/SponsorPackages.doc"><img style="vertical-align:middle" src="images/doc.svg" height="40px" align="bottom"><font color="#008000">Информация для спонсоров</font></a></u></b>
 						</div>
 						<div style="margin-left: 60px">
-							<b><u><a href="../docs/sponsor-dogovor-HIT-2022.doc"><img style="vertical-align:middle" src="images/doc.svg" height="40px" align="bottom"><font color="#008000">Спонсорский договор</font></a></u></b>
+							<b><u><a href="../docs/sponsor-dogovor-HIT.doc"><img style="vertical-align:middle" src="images/doc.svg" height="40px" align="bottom"><font color="#008000">Спонсорский договор</font></a></u></b>
 						</div>
 						<div style="margin-left: 100px">
-							<b><u><a href="../docs/vystavka-sponsor-dogovor-HIT-2022.doc"><img style="vertical-align:middle" src="images/doc.svg" height="40px" align="bottom"><font color="#008000">Договор спонсора выставки</font></a></u></b>
+							<b><u><a href="../docs/vystavka-sponsor-dogovor-HIT.doc"><img style="vertical-align:middle" src="images/doc.svg" height="40px" align="bottom"><font color="#008000">Договор спонсора выставки</font></a></u></b>
 						</div>
 						
 					</div>

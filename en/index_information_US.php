@@ -28,7 +28,7 @@
 				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2024</span></th><th class="dates" > — registration opening<br></th></tr>
 				<tr class="bottom_table"><th align="left"><span class="redColor">August 20, 2024</span></th><th class="dates" > — start of abstract submission<br></th></tr>
 
-				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2024</span></th><th class="dates" > — closing date for abstract submission<br></th></tr>
+				<tr class="bottom_table"><th align="left"><span class="redColor">September 20, 2024</span></th><th class="dates" > — closing date for abstract submission<br></th></tr>
 				<tr class="bottom_table"><th align="left"><span class="redColor">October 20, 2024</span></th><th class="dates" > — the last day of payment of the registration fee<br></th></tr>
                 <tr class="bottom_table"><th align="left"><span class="redColor">October 25, 2024</span></th><th class="dates" > — arrival after 2 p.m., the first session is after 7 p.m.<br></th></tr>
 				<tr class="bottom_table"><th align="left"><span class="redColor">October 26, 2024</span></th><th class="dates" > — conference opening, gala dinner<br></th></tr>

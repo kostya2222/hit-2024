@@ -73,8 +73,8 @@
 									</li>
 									<li class="navLink">
 									<?php if ($links=='indexd.php')
-							        echo'<a class="navLinkText checkIn redColor" href="https://forms.gle/8bGYCFiRia32dwf8A">Registration</a>';
-									else echo'<a class="navLinkText checkIn" href="https://forms.gle/8bGYCFiRia32dwf8A">Registration</a>';
+							        echo'<a class="navLinkText checkIn redColor" href="https://forms.gle/3kZa3T4jSH1sKrzr5">Registration</a>';
+									else echo'<a class="navLinkText checkIn" href="https://forms.gle/3kZa3T4jSH1sKrzr5">Registration</a>';
 									?>
 										
 									</li>
