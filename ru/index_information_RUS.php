@@ -46,7 +46,7 @@
                 </div>
                 <div class="textTittle">Регистрационный взнос</div>
 				<div class="textTittle color">Скоро</div>
-                <!--<div>Регистрационный взнос (без проживания)*, на человека, руб.</div>
+                <div>Регистрационный взнос (без проживания)*, на человека, руб.</div>
                 <div>
                     <table class="table " border="1">
                         <tr>
@@ -57,11 +57,11 @@
 							<th>Заочное участие</th>
                         </tr>
                         <tr class="price">
-                            <td>скоро</td>
-                            <td>скоро</td>
-                            <th>скоро</th>
-                            <th>скоро</th>
-							<th>скоро</th>
+                            <td>7000</td>
+                            <td>1500</td>
+                            <th>1500</th>
+                            <th>1000</th>
+							<th>800</th>
 
                         </tr>
                     </table>
@@ -73,25 +73,22 @@
                 </div>
                 <div class="textTittle">Проживание</div>
                 <div>Стоимость проживания в яхт-клубе "Водник" составляет*:<br> - одноместное размещение в двухместном
-                    номере: <span class="thumbnailBlack">4000</span> руб. в сутки, или <span class="thumbnailBlack">12000</span>
-                    руб. за трое суток;<br> - двухместное размещение в двухместном номере: <span
-                            class="thumbnailBlack">2800</span> руб. в сутки, или <span
-                            class="thumbnailBlack">8400</span> руб. за трое суток.<br> *В стоимость проживания в
+                    номере: <span class="thumbnailBlack">6000</span> руб. в сутки, или <span class="thumbnailBlack">18000</span>
+                    руб. за трое суток;<br> - двухместное размещение в двухместном номере: <span class="thumbnailBlack">4000</span> руб. в сутки, или <span class="thumbnailBlack">12000</span> руб. за трое суток.<br> *В стоимость проживания в
                     яхт-клубе "Водник" входит стоимость завтраков, ужинов и торжественного ужина.
                 </div>
                 <div class="textTittle">Оплата участия в конференции</div>
                 <div>Оплата участия в конференции производится по безналичному расчету после заключения договора:<br>
-					-типовой <a href="doc/dogovor_orgvznos_prozhivanie_2022.rtf" class="thumbnailRed">ДОГОВОР С ПРОЖИВАНИЕМ;</a><br>
-					- типовой <a href="doc/dogovor2022-orgvznos  .rtf" class="thumbnailRed">ДОГОВОР БЕЗ ПРОЖИВАНИЯ;</a><br>
-					- типовой <a href="doc/dogovor-online-2022.rtf" class="thumbnailRed">ДОГОВОР ДЛЯ УЧАСТИЯ ОНЛАЙН.</a><br>Подписанный со стороны заказчика экземпляр с печатью организации
-                    необходимо отсканировать и прислать на электронную почту по адресу: <a href="" class="redColor">ihss@med.chem.msu.ru.</a>
+					-типовой <a href="doc/dogovor_orgvznos_prozhivanie_2024.rtf" class="thumbnailRed">ДОГОВОР С ПРОЖИВАНИЕМ;</a><br>
+					- типовой <a href="doc/dogovor2024-orgvznos.rtf" class="thumbnailRed">ДОГОВОР БЕЗ ПРОЖИВАНИЯ;</a><br>
+					- типовой <a href="doc/dogovor-online-2024.rtf" class="thumbnailRed">ДОГОВОР ДЛЯ УЧАСТИЯ ОНЛАЙН.</a><br>Подписанный со стороны заказчика экземпляр с печатью организации
+                    необходимо отсканировать и прислать на электронную почту по адресу: <a href="" class="redColor">humustech@yandex.ru</a>
                 </div>
-                <div class="cvit"><a href="doc\kvitantia-orgvznos-hit-2021.rtf" class="cvit">КВИТАНЦИЯ ДЛЯ ОПЛАТЫ ОРГВЗНОСА
-                    ДЛЯ ФИЗИЧЕСКИХ ЛИЦ</a></div>
+                <div class="cvit"><a href="doc\kvitantia-orgvznos-hit-2024.rtf" class="cvit">КВИТАНЦИЯ ДЛЯ ОПЛАТЫ ОРГВЗНОСА ДЛЯ ФИЗИЧЕСКИХ ЛИЦ</a></div>
 				
             </div>
         </div>
-    </div>-->
+    </div>
     <div class="footerBox">
         <div class="footerElement">
             <div class="footerContent">

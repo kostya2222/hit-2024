@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 .bodyElement{
 	margin: 0 auto;
 	margin-left: 5%;
-	width: 960px;
+	max-width: 960px;
 }
 .bodyContent{
 	/*align-items: center;		

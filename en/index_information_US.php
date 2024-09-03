@@ -44,8 +44,8 @@
                     (15 min. incl. questions), poster presentations, panel and round table discussions.
                 </div>
                 <div class="textTittle">Registration fee</div>
-				<div class="textTittle color">Coming soon</div>
-                <!--<div>Registration fee (without accommodation)*, per person, EURO</div>
+				
+                <div>Registration fee (without accommodation)*, per person, EURO</div>
                 <div>
                     <table class="table" border="2">
                         <tr>
@@ -70,39 +70,19 @@
                 <div class="textTittle">Accommodation</div>
 
                 <div>The price for accommodation* in the sale-club "Vodnik" is:<br>- <span
-                        class="thumbnailBlack">90</span> Euro per night, or <span class="thumbnailBlack">360</span> Euro
-                    for four nights (double room, single occupancy);<br>- <span class="thumbnailBlack">60</span> Euro
-                    per night, or <span class="thumbnailBlack">240</span> Euro for four nights (double room, double
+                        class="thumbnailBlack">60</span> Euro per night, or <span class="thumbnailBlack">240</span> Euro
+                    for four nights (double room, single occupancy);<br>- <span class="thumbnailBlack">40</span> Euro
+                    per night, or <span class="thumbnailBlack">120</span> Euro for four nights (double room, double
                     occupancy).<br>*Accommodation price includes two meals a day and the conference banquet.
                 </div>
-                <div class="textTittle">Payment Info</div>
+                <!--<div class="textTittle">Payment Info</div>
                 <div>The payments should be made via wire transfer upon receiving an invoice from the Organizing
                     Committee. For issuing invoice, please, send us a request with your full name (as in passport), your
                     registration fee option and preferred type of accommodation. Or you can fill in <a class="redColor"
                                                                                                        href="doc/invoice-to-fill-in_21.rtf">the
                         enclosed invoice</a> and send it via e-mail to the Conference Secretariat <a
-                            href='mailto:ihss@med.chem.msu.ru'>ihss@med.chem.msu.ru</a>. We will check your data and
-                    return to you an approved invoice via e-mail.<br><br><br><br><!--</div>
-																		<!--<div class="textTittle">VISA support</div>
-																			<div class="last">
-																				For getting invitation to apply for Russian visa, please, send us the following information:<br>
-																				1) dates of arrival and departure;<br>
-																				2) passport number and its expiration date;<br>
-																				3) date of birth;<br>
-																				4) copy of your passport.<br>
- 																				Based on this information, we will apply for a tourist voucher and send it to your e-mail address along with the hotel booking 
-																				confirmation. A voucher and booking confirmation will be required at the Russian Consulate, which will issue a one-entry tourist 
-																				visa for the requested arrival and departure dates. If you are planning to arrive earlier or to stay longer, please, set the real dates 
-																				of your stay in Russia - extension will not be possible.<br>
-																				Getting a tourist visa is the easiest and cheapest option, so we offer it as the main choice. 
-																				Still, if you need an invitation for a business visa, we still can apply for it via the University, but we need to send a request 
-																				for an invitation no later than June 30, 2019.<br>
-																				All questions regarding visa processing should be sent to the e-mail address of the organizing committee - ihss@org.chem.msu.ru -
-																				 or to the address of the responsible member of the Organizing Committee - Tatyana Mikhnevich tanya.4erkasova8q@mail.ru</div>
-																<!--<div class="textTittle">Оплата участия в конференции</div>
-																	<div>Оплата участия в конференции производится по безналичному расчету после заключения договора:<br>- типовой <span class="thumbnailRed">ДОГОВОР С ПРОЖИВАНИЕМ;</span><br>- типовой <span class="thumbnailRed">ДОГОВОР БЕЗ ПРОЖИВАНИЯ.</span><br>Подписанный со стороны заказчика экземпляр с печатью организации необходимо отсканировать и прислать на электронную почту по адресу: <a href="#" class="redColor">ihss@org.chem.msu.ru.</a></div>
-																		<div class="cvit"><a href="#" class="cvit">КВИТАНЦИЯ ДЛЯ ОПЛАТЫ ОРГВЗНОСА ДЛЯ ФИЗИЧЕСКИХ ЛИЦ</a></div>-->
-
+                            href='humustech@yandex.ru'>humustech@yandex.ru</a>. We will check your data and
+                    return to you an approved invoice via e-mail.<br><br><br><br>-->
                 </div>
             </div>
         </div>
