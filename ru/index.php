@@ -27,6 +27,8 @@
 									<div class="infoContent_messageBox">
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">
+											<div class="infoContent_messageBoxTitle redColor" style="font-size: 40px">Подача тезисов продлена до 25 сентября!</div>
+                                        <br>
 												<div class="infoContent_messageBoxTitle">Дорогие коллеги!</div>
 												<div class="infoContent_messageBoxInfo">Приглашаем Вас принять участие в Девятой международной конференции по гуминовым
 		инновационным технологиям «Гуминовые вещества и зеленые технологии» (HIT–2024),
