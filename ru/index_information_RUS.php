@@ -26,7 +26,7 @@
 				<table >
 					<tr class="bottom_table"><th align="left"><span class="redColor">20 августа 2024</span></th><th class="dates" > — открытие регистрации<br></th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">20 августа 2024</span></th><th class="dates" > — начало подачи тезисов<br></th></tr>
-					<tr class="bottom_table"><th align="left"><span class="redColor">25 сентября 2024</span></th><th class="dates" > — последний день подачи тезисов<br></th></tr>
+					<tr class="bottom_table"><th align="left"><span class="redColor">1 октября 2024</span></th><th class="dates" > — последний день подачи тезисов<br></th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">20 октября 2024</span></th><th class="dates" > — последний день оплаты регистрационного взноса для очного участия</th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">25 октября 2024</span></th><th class="dates" > — заезд после 14:00, в 19:00 первая сессия, приветственный фуршет</th></tr>
 					<tr class="bottom_table"><th align="left"><span class="redColor">26 октября 2024</span></th><th class="dates" > — открытие конференции, торжественный ужин</th></tr>
