@@ -6,7 +6,7 @@
 		<title>Humic Innovative Technologies</title>
 		<meta property="og:url" content="http://www.humus.ru/hit-2024/ru/">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="http://www.humus.ru/hit-2024/en/images/ship.png">
+		<meta property="og:image" content="http://www.humus.ru/hit-2024/ru/images/ship.png">
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Fonts style Inter -->
 		<link rel="preconnect" href="https://fonts.gstatic.com">    
