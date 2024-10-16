@@ -114,7 +114,7 @@
 
 						    </tr>
 						<tr class="topS">							
-							<td style="height:140px"><a href="https://www.bashinkom.ru/en/"><img class="logoL" src="images/BashLogo.svg" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>Scientific-Innovation<br>Enterprise BashInkom Ltd</div></td>
+							<td style="height:140px"><a href="https://www.bashinkom.ru/en/"><img class="logoL" src="images/bashincom.png" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>Scientific-Innovation<br>Enterprise BashInkom Ltd</div></td>
 
 						    </tr>
 						 <tr class="topS"><p>							

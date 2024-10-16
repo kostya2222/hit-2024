@@ -61,7 +61,7 @@
 
 						    </tr>
 						<tr class="topS">							
-							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/BashLogo.svg" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО «НВП «БашИнком»</div></td>
+							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/bashincom.png" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО «НВП «БашИнком»</div></td>
 
 						    </tr>
 						 <tr class="topS"><p>							
