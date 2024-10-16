@@ -4,9 +4,9 @@
 		<meta charset="UTF-8">
 		<meta name="viewport" content="widht=device-widht">
 		<title>Humic Innovative Technologies</title>
-		<meta property="og:url" content="http://www.humus.ru/hit-2024/en/">
+		<meta property="og:url" content="http://www.humus.ru/hit-2021/en/">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="http://www.humus.ru/hit-2024/en/images/ship.png">
+		<meta property="og:image" content="http://www.humus.ru/hit-2021/en/images/ship_preview.png">
 		<link rel="stylesheet" href="../ru/css/style.css">
 		<!-- Fonts style Inter -->
 		<link rel="preconnect" href="https://fonts.gstatic.com">
@@ -26,7 +26,7 @@
 									<div class="infoContent_messageBox">
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">	
-																							
+												<div class="infoContent_messageBoxTitle redColor" style="font-size: 40px">Abstract submission has been extended until October 1!</div>											
 												<div class="infoContent_messageBoxTitle">Dear Colleagues,</div>
 												<div class="infoContent_messageBoxInfo">We invite you to take part at the Ninth International Conference on Humic Innovative Technologies "Humic substances and green technologies” (HIT – 2024), which is held under auspices of the Regional CIS Chapter of the International Humic Substances Society (<a class="redColor" href="https://humic-substances.org/">IHSS<a>) and the Lomonosov Moscow State University, Department of Chemistry.</div>
 												<div class="infoContent_messageBoxTitle">Conference dates:</div>

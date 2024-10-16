@@ -6,7 +6,7 @@
 		<title>Humic Innovative Technologies</title>
 		<meta property="og:url" content="http://www.humus.ru/hit-2024/ru/">
 		<meta property="og:type" content="article">
-		<meta property="og:image" content="http://www.humus.ru/hit-2024/ru/images/ship.png">
+		<meta property="og:image" content="http://www.humus.ru/hit-2024/en/images/ship.png">
 		<link rel="stylesheet" href="css/style.css">
 		<!-- Fonts style Inter -->
 		<link rel="preconnect" href="https://fonts.gstatic.com">    
@@ -27,7 +27,7 @@
 									<div class="infoContent_messageBox">
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">
-											
+
                                         <br>
 												<div class="infoContent_messageBoxTitle">Дорогие коллеги!</div>
 												<div class="infoContent_messageBoxInfo">Приглашаем Вас принять участие в Девятой международной конференции по гуминовым

@@ -42,41 +42,32 @@
 						
 
 
-						<!--<div class="sponsors__text">Организаторы конференции</div>
-						<table class="orgTable border">
-						  <tr class="border">
-							<td class="border logo3"><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"><a/><div class="textlogo3">Химический факультет<br>МГУ</div></td>
-						  </tr>
-						  
-						  <tr>
-						  <td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Сибирский Государственный Медицинский Университет</div></td>
-						  </tr>
-						</table>
-						<table class="orgTable border">
-						  <tr class="">
-							<td class="border logo1"><a href="http://humus.ru/ihss/"><img class="logo" src="images/logoIHSSCIS.svg" align="left"></a><div class="textlogo1">Региональное Отделение СНГ Международного гуминового общества</div></td>
-							
-						  </tr>
-						  </table>
-						<div class="logo6">	<a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div class=""><br>Некоммерческое партнёрство «Экспертно-аналитический центр<br>по проблемам органогенного сырья "Гумус Сапиенс”»</div></div>
-						<div class="sponsors__text">Спонсоры конференции</div>-->
 						
-						<!--
+						<div class="sponsors__text">Спонсоры конференции</div>
+						
+						
 						<table class="orgTable border">
-						  <tr class="topS">
-						  <div class="sponsors__text">Спонсоры конференции</div>
-						  <tr class="topSponMain">
-							<td class="" style="width: 500px;"><a href="https://relictorganics.com/"><img class="logo7"   style="background: #000;"  src="images/genLogo.svg" align="left"><a/><div class="textlogo7"><br>НПП «Генезис»</div></td>
-							<td class=""><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignoLogo.svg" align="left"></a><div class="textlogoL">ООО "Лигногумат"</div></td>
-							<td class=""><!--<a href="https://relictorganics.com/company"><img class="logosp" src="images/genLogo.svg" align="left"><a/><div class="textlogo7"><br>Новалэнд</div></td>
-						  </tr>
-							
-							<td class=""><img class="logosp" src="images/nobel.jpeg" align="left"><div class="textlogo8">Nobel</div></td>
-						  </tr>
-						  <tr class="topS">							
-							<td class=" "><a href="https://bashinkom.ru/"><img class="logoB " src="images/BashLogo.svg" align="left"></a><div class="textlogo9">НВП БашИнком</div></td>	-->					
-							
-						  </tr>
+						<tr >							
+							<td style="height:300px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="600" height="240" align="left"></a><div class="textlogoLEn"><br><br><br>Генеральный спонсор -  ООО НПП "ГЕНЕЗИС"</div></td>
+
+						    </tr>
+						 <tr class="topS">		
+						 <tr class="topS">							
+							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО "Лигногумат"</div></td>
+
+						    </tr>
+						 <tr class="topS">							
+						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО "Элемент"</div></td>
+
+						    </tr>
+						<tr class="topS">							
+							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/БашИнкомLogo.jpg" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО «НВП «БашИнком»</div></td>
+
+						    </tr>
+						 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://edagum-sm.ru/index.php"><img class="logoL" src="images/content_logo-edagum-rus.png" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО"ЭДАГУМ СМ РУС"</div></td></p>
+
+						    </p></tr>
 						</table>
 						<div class="sponsors__text">Спонсорам конференции</div>
 						<div style="margin-left: 20px">
