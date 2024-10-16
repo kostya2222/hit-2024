@@ -37,7 +37,7 @@
 						  </tr>
 						  </table>	
 						<div class="logo6">	<a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div class=""><br>Non-profit partnership 'Expert-analytical center on the problems of organogenic raw materials "Humus Sapiens'"</div></div>						  
-						<div class="sponsors__text">Conference sponsors</div>
+<!--                    <div class="sponsors__text">Conference sponsors</div>
 						
 						
 						<table class="orgTable border">
@@ -73,7 +73,7 @@
 						  </tr>
 						</table>
 
-<!--
+						<!--
 						<div class="sponsors__text">Conference sponsors</div>
 						
 						
@@ -95,22 +95,35 @@
 						<br>
 						<br>
 						<br>
-						
+						-->
 						<div class="sponsors__text">Conference sponsors</div>
 						
 						
 						<table class="orgTable border">
-						  <tr class="topS">
-							<td class="" style="width: 500px;"><a href="https://en.relictorganics.com/"><img class="logo7" src="images/genLogo.svg" align="left"><a/><div class="textlogo7"><br>Relict organics</div></td>
-							<td class=""><a href="https://www.lgt.tw/"><img class="logo8" src="images/ladLogo.svg" align="left"></a><div class="textlogo8En">Land Green and Technologies Ltd.</div></td>
-						  </tr>
-						  <tr class="topS">							
-							<td class="" style="width: 500px;"><a href="https://bashinkom.ru/en/"><img class="logoBEn" src="images/BashLogo.svg" align="left"></a><div class="textlogo9En">Scientific-Innovation<br>Enterprise BashInkom Ltd.</div></td>							
-							<td class=""><a href="https://en.lignohumate.ru/"><img class="logoL" src="images/lignoLogo.svg" align="left"></a><div class="textlogoLEn">Lignohumate Ltd.</div></td>
-						  </tr>
+						<tr >							
+							<td style="height:300px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="600" height="240" align="left"></a><div class="textlogoLEn"><br><br><br>General sponsor - Relict organics</div></td>
+
+						    </tr>
+						 <tr class="topS">		
+						 <tr class="topS">							
+							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>Lignogumat Ltd</div></td>
+
+						    </tr>
+						 <tr class="topS">							
+						  	<td style="height:140px"><a href="https://en.element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>Element company</div></td>
+
+						    </tr>
+						<tr class="topS">							
+							<td style="height:140px"><a href="https://www.bashinkom.ru/en/"><img class="logoL" src="images/BashLogo.svg" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>Scientific-Innovation<br>Enterprise BashInkom Ltd</div></td>
+
+						    </tr>
+						 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://edagum-sm.ru/en/"><img class="logoL" src="images/content_logo-edagum-rus.png" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>EDAGUM®SM</div></td></p>
+
+						    </p></tr>
 						</table>
 						
-						-->
+	
 						<div class="sponsors__text">For the conference sponsors</div>
 						<div style="margin-left: 20px">
 							<b><u><a href="../docs/SponsorPackagesEng.doc"><img style="vertical-align:middle" src="../ru/images/doc.svg" height="40px" align="bottom"><font color="#620000">Information for sponsors</font></a></u></b>
