@@ -416,6 +416,10 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 	margin-right: 10px;
 	margin-left: 30%;
 }
+.logotextbold18{
+	font-size: 18px;
+	font-weight: 700;
+}
 .topS{
 	border: 1px solid white;
 	margin-top:30px;

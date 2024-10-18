@@ -42,6 +42,45 @@
 											о предприятиях-участниках и заявленных продуктах. Каталог будет двуязычным: информация будет представлена на русском
 											и английском языках. В рамках проведения выставки будут организованы заседания круглых столов, посвященные актуальным проблемам гуминовой отрасли.</div>
 							<div class="ExTittle1"> </div>
+							<div class="ExTittle1">Участники Выставки</div>
+							<table style = "width:900px">
+						<tr >							
+							<td style="height:250px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="Exmain"><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
+
+						    </tr>
+						 <tr class="topS">		
+						 <tr class="topS">							
+							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="Exmain">ООО «Лигногумат»</div></td>
+
+						    </tr>
+						 <tr class="topS">							
+						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="400" height="100" align="left"></a><div class="Exmain">ООО «Элемент»</div></td>
+
+						    </tr>
+						<tr class="topS">							
+							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/bashincom.png" width="440" height="95" align="left"></a><div class="Exmain">ООО «НВП «БашИнком»</div></td>
+
+						    </tr>
+						 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://edagum-sm.ru/index.php"><img class="logoL" src="images/content_logo-edagum-rus.png" width="360" height="112" align="left"></a><div class="Exmain">ООО"ЭДАГУМ СМ РУС"</div></td></p>
+
+						    </tr>
+							</tr>
+						 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://www.humate-sakhalin.ru/"><img class="logoL" src="images/logo_sah.jpg" width="280" height="112" align="left"></a><div class="Exmain"><br>ГК «Сахалинские гуматы»</div></td></p>
+
+						    </tr>
+							 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://humate.ru/"><img class="logoL" src="images/logo_agrotech.jpg" width="280" height="112" align="left"></a><div class="Exmain"><br>ООО «АГРОТЕХ ГУМАТ»</div></td></p>
+
+						    </tr>
+							</tr>
+							 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://www.bioteh.kz/"><img class="logoL" src="images/logo_bionano.jfif" width="280" height="112" align="left"></a><div class="Exmain"><br>БиоНаноПрепарат</div></td></p>
+
+						    </tr>
+						</table>
+							<div class="ExTittle1"> </div>
 							<details>
 							    <summary class="list">Дни работы выставки</summary>
 								<div class="container dataTittle">

@@ -48,24 +48,29 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:300px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="600" height="240" align="left"></a><div class="textlogoLEn"><br><br><br>Генеральный спонсор -  ООО НПП "ГЕНЕЗИС"</div></td>
+							<td style="height:300px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
 
 						    </tr>
 						 <tr class="topS">		
 						 <tr class="topS">							
-							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО "Лигногумат"</div></td>
+							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО «Лигногумат»</div></td>
 
 						    </tr>
 						 <tr class="topS">							
-						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО "Элемент"</div></td>
+						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="400" height="100" align="left"></a><div class="textlogoLEn"><br><br>ООО «Элемент»</div></td>
 
 						    </tr>
 						<tr class="topS">							
-							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/bashincom.png" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО «НВП «БашИнком»</div></td>
+							<td style="height:140px"><a href="https://www.bashinkom.ru/"><img class="logoL" src="images/bashincom.png" width="440" height="95" align="left"></a><div class="textlogoLEn"><br><br>ООО «НВП «БашИнком»</div></td>
 
 						    </tr>
 						 <tr class="topS"><p>							
 							<td style="height:140px"><a href="https://edagum-sm.ru/index.php"><img class="logoL" src="images/content_logo-edagum-rus.png" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>ООО"ЭДАГУМ СМ РУС"</div></td></p>
+
+						    </p></tr>
+							</tr>
+						 <tr class="topS"><p>							
+							<td style="height:140px"><a href="https://www.humate-sakhalin.ru/"><img class="logoL" src="images/logo_sah.jpg" width="280" height="112" align="left"></a><div class="textlogoLEn"><br><br>ГК «Сахалинские гуматы»</div></td></p>
 
 						    </p></tr>
 						</table>

@@ -101,24 +101,28 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:300px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="600" height="240" align="left"></a><div class="textlogoLEn"><br><br><br>General sponsor - Relict organics</div></td>
+							<td style="height:200px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br>General sponsor -<br> Relict organics</div></td>
 
 						    </tr>
 						 <tr class="topS">		
 						 <tr class="topS">							
-							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>Lignogumat Ltd</div></td>
+							<td style="height:140px"><a href="https://lignohumate.ru/"><img class="logoL" src="images/lignologo_new.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>Lignogumat Ltd.</div></td>
 
 						    </tr>
 						 <tr class="topS">							
-						  	<td style="height:140px"><a href="https://en.element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>Element company</div></td>
+						  	<td style="height:140px"><a href="https://en.element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="400" height="100" align="left"></a><div class="textlogoLEn"><br><br>Element company</div></td>
 
 						    </tr>
 						<tr class="topS">							
-							<td style="height:140px"><a href="https://www.bashinkom.ru/en/"><img class="logoL" src="images/bashincom.png" width="500" height="112" align="left"></a><div class="textlogoLEn"><br><br>Scientific-Innovation<br>Enterprise BashInkom Ltd</div></td>
+							<td style="height:140px"><a href="https://www.bashinkom.ru/en/"><img class="logoL" src="images/bashincom.png" width="440" height="95" align="left"></a><div class="textlogoLEn"><br><br>Scientific-Innovation<br>Enterprise BashInkom Ltd</div></td>
 
 						    </tr>
 						 <tr class="topS"><p>							
 							<td style="height:140px"><a href="https://edagum-sm.ru/en/"><img class="logoL" src="images/content_logo-edagum-rus.png" width="360" height="112" align="left"></a><div class="textlogoLEn"><br><br>EDAGUM®SM</div></td></p>
+
+						    </p></tr>
+							<tr class="topS"><p>							
+							<td style="height:140px"><a href="https://www.humate-sakhalin.ru/"><img class="logoL" src="images/logo_sah.jpg" width="280" height="112" align="left"></a><div class="textlogoLEn"><br><br>Sakhalin Humates Ltd.</div></td></p>
 
 						    </p></tr>
 						</table>
