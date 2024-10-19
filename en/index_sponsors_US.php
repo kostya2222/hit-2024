@@ -24,19 +24,14 @@
 						<div class="tittle">Organizers of the conference</div>
 						<table class="orgTable border">
 						  <tr class="border">
-							<td class="border logo3"><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"><a/><div class="textlogo3">Department of Chemistry, Lomonosov MSU</div></td>
-							
+							<td style="width:20%" ><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"></a><div class="textlogo3" style="width:300px"><br>Department of Chemistry<br>Lomonosov MSU</div></td>
+							<td style="width:20%"><a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div style="width:300px"><br><br><br>NCP CBR "Humus Sapiens"</div></td>
 							<!--<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Suberian <br>State<br> Medical<br> University</div></td>-->
-						  </tr>
-						  <tr>
+                            <td style="width:20%"><a href="http://humus.ru/ihss/"><img class="logo" src="images/logoIHSSCIS.svg" align="left"></a><div class="textLogo1" style="width:300px"><br>Regional Branch of the CIS<br> International Humic Society</div></td>
+
 						  </tr>
 						</table>
-						<table class="orgTable border">
-						  <tr class="border">
-							<td class="border logo1"><a href="http://humus.ru/ihss/"><img class="logo" src="images/logoIHSSCIS.svg" align="left"></a><div class="textLogo1">Regional Branch of the CIS<br> International Humic Society</div><td class="border logo2"><a href="https://humic-substances.org/"></div></td>
-						  </tr>
-						  </table>	
-						<div class="logo6">	<a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div class=""><br>Non-profit partnership 'Expert-analytical center on the problems of organogenic raw materials "Humus Sapiens'"</div></div>						  
+
 <!--                    <div class="sponsors__text">Conference sponsors</div>
 						
 						
@@ -101,7 +96,7 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:200px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br>General sponsor -<br> Relict organics</div></td>
+							<td style="height:200px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>General sponsor -<br> Relict organics</div></td>
 
 						    </tr>
 						 <tr class="topS">		
@@ -110,7 +105,7 @@
 
 						    </tr>
 						 <tr class="topS">							
-						  	<td style="height:140px"><a href="https://en.element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="400" height="100" align="left"></a><div class="textlogoLEn"><br><br>Element company</div></td>
+						  	<td style="height:140px"><a href="https://en.element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="350" height="75" align="left"></a><div class="textlogoLEn"><br><br>Element company</div></td>
 
 						    </tr>
 						<tr class="topS">							

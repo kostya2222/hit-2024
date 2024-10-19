@@ -25,9 +25,19 @@
 						<div class="sponsors__text">Организаторы конференции</div>
 						<table class="orgTable border">
 						  <tr class="border">
+							<td style="width:20%" ><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"></a><div class="textlogo3" style="width:300px"><br>Химический факультет<br>МГУ</div></td>
+							<td style="width:20%"><a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div style="width:300px"><br><br><br>НП ЭАОЦПОС "Гумус Сапиенс”</div></td>
+							<!--<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Suberian <br>State<br> Medical<br> University</div></td>-->
+                            <td style="width:20%"><a href="http://humus.ru/ihss/"><img class="logo" src="images/logoIHSSCIS.svg" align="left"></a><div class="textLogo1" style="width:320px"><br>Региональное Отделение СНГ Международного<br> гуминового общества</div></td>
+
+						  </tr>
+						</table>
+<!--
+						<table class="orgTable border">
+						  <tr class="border">
 							<td class="border logo3"><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"><a/><div class="textlogo3">Химический факультет<br>МГУ</div></td>
 							
-							<!--<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Сибирский <br>Государственный <br>Медицинский <br>Университет</div></td>-->
+							<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Сибирский <br>Государственный <br>Медицинский <br>Университет</div></td>
 						  </tr>
 						  <tr>
 						  </tr>
@@ -39,7 +49,7 @@
 						  </tr>
 						  </table>
 						<div class="logo6">	<a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div class=""><br>Некоммерческое партнёрство «Экспертно-аналитический центр<br>по проблемам органогенного сырья "Гумус Сапиенс”»</div></div>
-						
+-->
 
 
 						
@@ -48,7 +58,7 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:300px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
+							<td style="height:20px><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
 
 						    </tr>
 						 <tr class="topS">		
@@ -57,7 +67,7 @@
 
 						    </tr>
 						 <tr class="topS">							
-						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="400" height="100" align="left"></a><div class="textlogoLEn"><br><br>ООО «Элемент»</div></td>
+						  	<td style="height:140px"><a href="https://element-msc.ru/"><img class="logoL" src="images/Element_logo.jpg" width="350" height="75" align="left"></a><div class="textlogoLEn"><br><br>ООО «Элемент»</div></td>
 
 						    </tr>
 						<tr class="topS">							
