@@ -26,7 +26,7 @@
 						<table class="orgTable border">
 						  <tr class="border">
 							<td style="width:20%" ><a href="http://www.chem.msu.ru/rus/weldept.html"><img class="logo" src="images/logoChem.svg" align="left"></a><div class="textlogo3" style="width:300px"><br>Химический факультет<br>МГУ</div></td>
-							<td style="width:20%"><a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div style="width:300px"><br><br><br>НП ЭАОЦПОС "Гумус Сапиенс”</div></td>
+							<td style="width:20%"><a href="http://humus.ru/humus-sapiens/about/index.shtml"><img class="logo" src="images/logoHS.svg" align="left"></a> <div style="width:300px"><br><br><br><br>НП ЭАОЦПОС "Гумус Сапиенс”</div></td>
 							<!--<td class="border"><a href="https://abiturient.ssmu.ru/"><img class="logoMed logo" src="images/logoMed.svg" align="left"></a><div class="textlogo5">Suberian <br>State<br> Medical<br> University</div></td>-->
                             <td style="width:20%"><a href="http://humus.ru/ihss/"><img class="logo" src="images/logoIHSSCIS.svg" align="left"></a><div class="textLogo1" style="width:320px"><br>Региональное Отделение СНГ Международного<br> гуминового общества</div></td>
 
