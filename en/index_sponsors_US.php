@@ -96,7 +96,7 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:200px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>General sponsor -<br> Relict organics</div></td>
+							<td style="height:200px"><a href="https://en.relictorganics.com/"><img class="logoL" src="images/Relict-Organics-LOGO.png" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>General sponsor -<br> Relict organics</div></td>
 
 						    </tr>
 						 <tr class="topS">		

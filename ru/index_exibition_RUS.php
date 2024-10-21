@@ -45,7 +45,7 @@
 							<div class="ExTittle1">Участники Выставки</div>
 							<table style = "width:900px">
 						<tr >							
-							<td style="height:250px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict Organics LOGO.ai" width="450" height="180" align="left"></a><div class="Exmain"><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
+							<td style="height:250px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict-Organics-LOGO.png" width="450" height="180" align="left"></a><div class="Exmain"><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
 
 						    </tr>
 						 <tr class="topS">		
