@@ -58,7 +58,7 @@
 						
 						<table class="orgTable border">
 						<tr >							
-							<td style="height:20px><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict-Organics-LOGO.png" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
+							<td style="height:200px"><a href="https://relictorganics.com/"><img class="logoL" src="images/Relict-Organics-LOGO.png" width="450" height="180" align="left"></a><div class="textlogoLEn"><br><br>Генеральный спонсор -<br>  ООО НПП "ГЕНЕЗИС"</div></td>
 
 						    </tr>
 						 <tr class="topS">		
