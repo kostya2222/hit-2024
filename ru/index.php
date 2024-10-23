@@ -28,7 +28,9 @@
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">
 
-                                        <br>
+                                        
+											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>ВНИМАНИЕ!! Предварительная версия сборника тезисов докладов! ВНИМАНИЕ!!<u/></b></a></b></div>
+											
 												<div class="infoContent_messageBoxTitle">Дорогие коллеги!</div>
 												<div class="infoContent_messageBoxInfo">Приглашаем Вас принять участие в Девятой международной конференции по гуминовым
 		инновационным технологиям «Гуминовые вещества и зеленые технологии» (HIT–2024),
