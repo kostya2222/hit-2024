@@ -26,7 +26,9 @@
 									<div class="infoContent_messageBox">
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">	
-													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>ATTENTION! NEW!! Preliminary version of the Book of Abstracts NEW!! ATTENTION!<u/></b></a></b></div>										
+													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>ATTENTION! NEW!! Preliminary version of the Book of Abstracts NEW!! ATTENTION!<u/></b></a></b></div>	
+													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/program-2024-07.docx"><u><b>ATTENTION!! Preliminary version of the program of the conference! ATTENTION!!<u/></b></a></b></div>
+													
 												<div class="infoContent_messageBoxTitle">Dear Colleagues,</div>
 												<div class="infoContent_messageBoxInfo">We invite you to take part at the Ninth International Conference on Humic Innovative Technologies "Humic substances and green technologies” (HIT – 2024), which is held under auspices of the Regional CIS Chapter of the International Humic Substances Society (<a class="redColor" href="https://humic-substances.org/">IHSS<a>) and the Lomonosov Moscow State University, Department of Chemistry.</div>
 												<div class="infoContent_messageBoxTitle">Conference dates:</div>

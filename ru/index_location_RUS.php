@@ -23,7 +23,9 @@
 						<div class="bodyContent ">
 							<!--<div class="tittle">Место проведения</div>-->
 							<div class="tittle">Место проведения конференции:</div>
-												<div class="infoContent_messageBoxPlace">парусный клуб «Водник», ПлавОтель</div>
+											<div class="infoContent_messageBoxPlace">парусный клуб «Водник», ПлавОтель переехал!!!</div>
+											<div><img class="img" src="images/SchemVodnik.jpg" style="text-align: center;" width="420"></div>
+											<div class="infoContent_messageBoxPlace">От парковки прямо. Воротв за спиной должны быть. У шатра Эль Гунна. Где цифра 9</div>
 							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
 							
 							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  <img src="images/location3.jpg" style="border-radius: 10px;" width="420"></div>

@@ -22,7 +22,10 @@
 				<div class="bodyElement">
 					<div class="bodyContent">
 						<div class="tittle">Location</div>
-							<div class="BigText">The venue for the HIT-2024 conference is Sailing Club "Vodnik" located in the city of Dolgoprudny Moscow region.</div>
+							<div class="BigText">The venue for the HIT-2024 conference is Sailing Club "Vodnik" located in the city of Dolgoprudny Moscow region was moved!</div>
+							<div><img class="img" src="images/SchemVodnik.jpg" style="text-align: center;" width="420"></div>
+											<div class="infoContent_messageBoxPlace">It's straight from the parking lot. There should be a collar behind your back. Near to El Gouna's tent. Where is the number 9</div>
+							
 							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
 							
 							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  <img src="images/location3.jpg" style="border-radius: 10px;" width="420"></div>
