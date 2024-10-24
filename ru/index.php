@@ -30,7 +30,7 @@
 
                                         
 											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>ВНИМАНИЕ!! Предварительная версия сборника тезисов докладов! ВНИМАНИЕ!!<u/></b></a></b></div>
-											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/program-2024-07.docx"><u><b>ВНИМАНИЕ!! Предварительная программа конференции! ВНИМАНИЕ!!<u/></b></a></b></div>
+											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/Program-2024-final.pdf"><u><b>ВНИМАНИЕ!! Финальная программа конференции! ВНИМАНИЕ!!<u/></b></a></b></div>
 												<div class="infoContent_messageBoxTitle">Дорогие коллеги!</div>
 												<div class="infoContent_messageBoxInfo">Приглашаем Вас принять участие в Девятой международной конференции по гуминовым
 		инновационным технологиям «Гуминовые вещества и зеленые технологии» (HIT–2024),
