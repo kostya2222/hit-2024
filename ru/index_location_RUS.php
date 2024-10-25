@@ -24,11 +24,16 @@
 							<!--<div class="tittle">Место проведения</div>-->
 							<div class="tittle">Место проведения конференции:</div>
 											<div class="infoContent_messageBoxPlace">парусный клуб «Водник», ПлавОтель переехал!!!</div>
-											<div><img class="img" src="images/SchemVodnik.jpg" style="text-align: center;" width="420"></div>
-											<div class="infoContent_messageBoxPlace">От парковки прямо. Воротв за спиной должны быть. У шатра Эль Гунна. Где цифра 9</div>
+											<div><!--<img class="img" src="images/SchemVodnik.jpg" style="border-radius: 10px;" width="420">-->
+												<img class="img" src="images/path1.png" style="border-radius: 10px;" width="420">
+												<img class="img" src="images/path2.png" style="border-radius: 10px;" width="420">
+											</div>
+											<div class="infoContent_messageBoxPlace">Оптимальным маршрутом следования от КПП Яхт-Клуба "Водник" является:</div>
+											<div class="text bottom">1) При проходе через КПП около 100 метров нужно идти прямо не сворачивая. Налево поворачивать в ходе движения к зданию Плавотеля не нужно!<br>
+											2) После прохождения 100 метров пути встречается разветвление дорог. Нужно следовать по центральной дороге не сворачивая. Приблизительно через 100 метров будет видно здание Плавотеля.</div>
 							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
 							
-							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  <img src="images/location3.jpg" style="border-radius: 10px;" width="420"></div>
+							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  </div>
 							
 							
 							
