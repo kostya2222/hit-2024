@@ -23,21 +23,22 @@
 						<div class="bodyContent ">
 							<!--<div class="tittle">Место проведения</div>-->
 							<div class="tittle">Место проведения конференции:</div>
-											<div class="infoContent_messageBoxPlace">парусный клуб «Водник», ПлавОтель переехал!!!</div>
+											<div class="infoContent_messageBoxPlace">Срочно!!!! Всем-всем очным участникам!!! Плавотель переехал!!!!</div>
 											<div><!--<img class="img" src="images/SchemVodnik.jpg" style="border-radius: 10px;" width="420">-->
 												<img class="img" src="images/path1.png" style="border-radius: 10px;" width="420">
 												<img class="img" src="images/path2.png" style="border-radius: 10px;" width="420">
 											</div>
 											<div class="infoContent_messageBoxPlace">Оптимальным маршрутом следования от КПП Яхт-Клуба "Водник" является:</div>
-											<div class="text bottom">1) При проходе через КПП около 100 метров нужно идти прямо не сворачивая. Налево поворачивать в ходе движения к зданию Плавотеля не нужно!<br>
+											<div class="text">1) При проходе через КПП около 100 метров нужно идти прямо не сворачивая.<br>
 											2) После прохождения 100 метров пути встречается разветвление дорог. Нужно следовать по центральной дороге не сворачивая. Приблизительно через 100 метров будет видно здание Плавотеля.</div>
+											<br><div class="BigText"><a href="https://yandex.ru/maps?rtext=55.962062%2C37.519051~55.965388%2C37.520438&rtt=pd"><u>Ссылка на маршрут от КПП</u></a></div>
 							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
 							
 							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420">  </div>
 							
 							
 							
-							<br><br><div class="BigText">Aдрес: Московская область, г. Долгопрудный, ул. Набережная, д. 24.</div>
+							<br>
 							<div class="tittle redColor">Как добраться</div>
 							<div class ="text"> Яхт-клуб «Водник» находится в десяти минутах пешком от железнодорожной станции Водники Савёловского направления. Альтернативный вариант добраться — ехать от метро «Физтех» на маршрутном такси 572 до остановки «Школа №16».</div>
 							<div class="tittle "><a class="redColor" href="doc/getToRus.pdf">Схемы маршрутов от аэропортов до яхт-клуба «Водник»</a></br>

@@ -28,8 +28,9 @@
 												<img class="img" src="images/path2.png" style="border-radius: 10px;" width="420">
 											</div>
 											<div class="infoContent_messageBoxPlace">The optimal route from the entrance of the "Vodnik" Yacht Club is as follows:</div>
-											<div class="text bottom">1) After passing through the entrance, you need to go straight for about 100 meters without turning. Do not turn left towards the Floating Hotel while moving!<br>
+											<div class="text ">1) After passing through the entrance, you need to go straight for about 100 meters without turning.<br>
 											2) After traveling 100 meters, you will encounter a fork in the road. You should continue on the central road without turning. Approximately 100 meters later, you will see the Floating Hotel building.</div>
+											<br><div class="BigText"><a href="https://yandex.ru/maps?rtext=55.962062%2C37.519051~55.965388%2C37.520438&rtt=pd"><u>Link to the route from the checkpoint</u></a></div>
 							<div><img class="img" src="images/location1.jpg" style="border-radius: 10px;" width="420">  <img src="images/location2.jpg" style="border-radius: 10px;" width="420"><br><br></div>
 							
 							<div><img class="img" src="images/location4.jpg" style="border-radius: 10px;" width="420"> </div>
