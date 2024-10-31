@@ -27,7 +27,7 @@
 									<div class="infoContent_messageBox">
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">
-											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="index_location_RUS.php"><u><b>ВНИМАНИЕ!! ВОДНИК ПЕРЕЕХАЛ!!! ВНИМАНИЕ!!</u></b></a></b></div>
+											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="https://disk.yandex.ru/d/N7q9qx3Yte71Zw"><u><b>Фотографии конференции</u></b></a></b></div>
 											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/Program-2024-final.pdf"><u><b>Финальная программа конференции</u></b></a></b></div>
 											<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>Предварительная версия сборника тезисов докладов</u></b></a></b></div>
 											

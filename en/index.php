@@ -27,7 +27,7 @@
 										<div class="infoContent_messageElement">
 											<div class="infoContent_messageContent">	
 													
-													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="index_location_US.php"><u><b>ATTENTION! NEW!! Conference Venue was moved! NEW!! ATTENTION!</u></b></a></b></div>
+													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="https://disk.yandex.ru/d/N7q9qx3Yte71Zw"><u><b>Conference photos</u></b></a></b></div>
 													
 													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/Program-2024-final.pdf"><u><b>Final version of the program of the conference</u></b></a></b></div>
 													<div class=""><b><a class="infoContent_messageBoxInfo redColor" href ="../abstractbook/HIT-2024-abstractbook.pdf"><u><b>Preliminary version of the Book of Abstracts</u></b></a></b></div>	
